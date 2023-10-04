@@ -1,3 +1,3 @@
-# Hi, I'm Nguyen Thi Thao Nguyen
-
-My name is Nguyen Thi Thao Nguyen and I am studying Information System at Can Tho University.
+# B2003796
+# Name: Nguyen Thi Thao Nguyen
+# Hi there, i'm studing  in Can Tho university
